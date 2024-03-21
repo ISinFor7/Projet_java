@@ -1,5 +1,7 @@
-package db;
+package PROJET;
+ 
 
+ /// nom date , like ,genre , albums, music  
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
